@@ -1,4 +1,4 @@
 # e-plantShopping 
 
-##Project Overview
+## Project Overview
 e-plantShopping is a React-based application for browser and shopping for online plants
